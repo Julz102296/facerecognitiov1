@@ -89,6 +89,7 @@ export default function Forms() {
                         <option value="">Please select</option>
                         <option value="student">Student</option>
                         <option value="instructor">Intructor</option>
+                        <option value="instructor">Staff</option>
                       </select>
                       </div>
 
